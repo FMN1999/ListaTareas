@@ -1,2 +1,2 @@
 # ListaTareas
-Repositorio de un listado de tareas con Angular
+Repositorio de un listado de tareas realizado con Angular.
